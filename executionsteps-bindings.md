@@ -1,3 +1,5 @@
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-event-hub-cosmos-db
+
 # Set environment variables
 
 ```bash

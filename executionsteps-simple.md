@@ -1,3 +1,5 @@
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-maven
+
 # Create simple function project with Maven
 
 ```bash
