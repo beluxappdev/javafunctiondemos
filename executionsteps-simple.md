@@ -7,7 +7,7 @@ mvn archetype:generate "-DarchetypeGroupId=com.microsoft.azure" "-DarchetypeArti
 # clean and run
 
 ```bash
-cd fabrikam-function
+cd fabrikam-functions
 mvn clean package 
 mvn azure-functions:run
 ```
@@ -19,6 +19,4 @@ az login
 mvn azure-functions:deploy
 ```
 
-
-fabrikam-functions-20191112191216122
 
